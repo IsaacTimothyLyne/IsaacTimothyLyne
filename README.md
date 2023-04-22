@@ -4,4 +4,4 @@ I’m delving into the world of game development aswell as DSP and audio develop
 I’m looking to collaborate on a project with any team
 How to reach me: isaactimothylyne@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaactimothylyne)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaactimothylyne)
